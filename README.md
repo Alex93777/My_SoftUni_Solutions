@@ -1,1 +1,1 @@
-This are solutions which I work on in SoftUni.
+This are solutions which I worked on in SoftUni.
