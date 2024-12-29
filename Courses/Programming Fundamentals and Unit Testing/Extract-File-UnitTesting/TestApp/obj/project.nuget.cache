@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zchG+RWsbrd3hgN8YRDgIwXP2r9dyAQeCFVowygnEDixkgPmoQxVa/MMaOLOMfRlzKnwNrBfsn3omjomwBRIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\SoftUni_Solutions\\Courses\\Programming Fundamentals and Unit Testing\\Extract-File-UnitTesting\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

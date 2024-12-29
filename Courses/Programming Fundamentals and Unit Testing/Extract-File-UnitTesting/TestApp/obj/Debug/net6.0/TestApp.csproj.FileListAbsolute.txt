@@ -1,0 +1,23 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lectures & Exercises\Exam Preperation 3\03-Extract-File-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lectures & Exercises\Exam Preperation 3\03-Extract-File-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lectures & Exercises\Exam Preperation 3\03-Extract-File-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lectures & Exercises\Exam Preperation 3\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lectures & Exercises\Exam Preperation 3\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lectures & Exercises\Exam Preperation 3\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lectures & Exercises\Exam Preperation 3\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lectures & Exercises\Exam Preperation 3\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lectures & Exercises\Exam Preperation 3\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lectures & Exercises\Exam Preperation 3\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lectures & Exercises\Exam Preperation 3\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\obj\Debug\net6.0\TestApp.sourcelink.json
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\PC\Desktop\SoftUni_Solutions\Courses\Programming Fundamentals and Unit Testing\Extract-File-UnitTesting\TestApp\obj\Debug\net6.0\ref\TestApp.dll
