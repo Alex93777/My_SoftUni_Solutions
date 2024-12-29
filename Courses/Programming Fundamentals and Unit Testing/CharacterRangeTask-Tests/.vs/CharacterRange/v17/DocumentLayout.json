@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\SoftUni_Solutions\\Courses\\Programming Fundamentals and Unit Testing\\CharacterRangeTask-Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B86AEE31-F1F5-46DF-84B7-8A7116744D7B}|TestApp\\TestApp.csproj|c:\\users\\pc\\desktop\\softuni_solutions\\courses\\programming fundamentals and unit testing\\characterrangetask-tests\\testapp\\characterrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86AEE31-F1F5-46DF-84B7-8A7116744D7B}|TestApp\\TestApp.csproj|solutionrelative:testapp\\characterrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterRange.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\SoftUni_Solutions\\Courses\\Programming Fundamentals and Unit Testing\\CharacterRangeTask-Tests\\TestApp\\CharacterRange.cs",
+              "RelativeDocumentMoniker": "TestApp\\CharacterRange.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\SoftUni_Solutions\\Courses\\Programming Fundamentals and Unit Testing\\CharacterRangeTask-Tests\\TestApp\\CharacterRange.cs",
+              "RelativeToolTip": "TestApp\\CharacterRange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:47:45.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
