@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QRnPMJvtZe8Q/t4ch1eGAl3E+SxoQ+k5+pgWVpL/7sQT/kODqPksPZCCSE1QjzMoUwAM5y6Dyc/9jT4f0zZQFA==",
+  "success": true,
+  "projectFilePath": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Lectures & Exercises\\Exam Preperation 1\\04-FoldArray-Resources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
