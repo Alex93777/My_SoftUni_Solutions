@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sx7JeOFE0GnKFIS4X2/A+oBghZR/vU59YqtrrTI+cIfAASSg7RJZs7pGZBqKBO8S7iHqU/dfX1ES1hEFGI3BjQ==",
+  "success": true,
+  "projectFilePath": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures & Exercises\\Exam-Preparation-3-Resources\\Exam-Preparation-3-Resources\\03-Chat\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

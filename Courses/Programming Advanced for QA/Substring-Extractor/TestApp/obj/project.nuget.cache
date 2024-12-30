@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XDdDwuYsld1o4cj5FfAX1me4cx7xbOASkl/vIu9WvgIK7jEEkHYu5+uwjh8D6egS3QkVgZfxmcBHFp4ycQUuuw==",
+  "success": true,
+  "projectFilePath": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures & Exercises\\Exam-Preparation-3-Resources\\Exam-Preparation-3-Resources\\01-Substring-Extractor\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
