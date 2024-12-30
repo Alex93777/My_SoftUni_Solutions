@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ab7vaOfVp9Gqv+Py2t8YccE7J9BL9YUHCR7omDjxa0Jg2OfRj9lj/XFfTVrIY2qXDVZVD+b3G2sd3pyZO8jQIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\My_SoftUni_Solutions\\Courses\\Programming Fundamentals and Unit Testing\\04-LIS-Resources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
