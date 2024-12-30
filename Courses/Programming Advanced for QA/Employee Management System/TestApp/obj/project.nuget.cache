@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S09i7VmtwxsggmbBN/3wrA5wY3npxconjn2F/Qryjt0tuBaVR5e+qqnJ7CMhCAkdeoNYGBq1ktU/IB7mGWF11Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Regular Exam\\03-Employee Management System\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

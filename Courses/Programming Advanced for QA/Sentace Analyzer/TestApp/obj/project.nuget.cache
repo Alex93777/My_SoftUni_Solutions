@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ht4F6xS1Co3ZLKnNVZAlTrO5KA9AR2BNds6t73Bqi6NTu6a8laOlMVU5zc9p9H5QNn1pMga0Adxq0j6SlUScEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Regular Exam\\02-Sentace Analyzer\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
