@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\Exam Preperation 2 Resources\\Exam-Preparation-2-Resources\\01-CSV-Parser-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7856FA4-DBFC-41D7-BADF-9FFE197AB63B}|TestApp.Tests\\TestApp.Tests.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\exam preperation 2 resources\\exam-preparation-2-resources\\01-csv-parser-resources\\testapp.tests\\csvparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7856FA4-DBFC-41D7-BADF-9FFE197AB63B}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\csvparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CsvParserTests.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\Exam Preperation 2 Resources\\Exam-Preparation-2-Resources\\01-CSV-Parser-Resources\\TestApp.Tests\\CsvParserTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\CsvParserTests.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\Exam Preperation 2 Resources\\Exam-Preparation-2-Resources\\01-CSV-Parser-Resources\\TestApp.Tests\\CsvParserTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\CsvParserTests.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowD8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:19:46.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

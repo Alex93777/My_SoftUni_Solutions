@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\Exam Preperation 2 Resources\\Exam-Preparation-2-Resources\\ToDo-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65311F7D-0C84-47A1-A13D-7221E4D11B42}|TestApp.Tests\\TestApp.Tests.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\exam preperation 2 resources\\exam-preparation-2-resources\\todo-resources\\testapp.tests\\todolisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65311F7D-0C84-47A1-A13D-7221E4D11B42}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\todolisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoListTests.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\Exam Preperation 2 Resources\\Exam-Preparation-2-Resources\\ToDo-Resources\\TestApp.Tests\\ToDoListTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\ToDoListTests.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\Exam Preperation 2 Resources\\Exam-Preparation-2-Resources\\ToDo-Resources\\TestApp.Tests\\ToDoListTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\ToDoListTests.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwGwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:31:54.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
