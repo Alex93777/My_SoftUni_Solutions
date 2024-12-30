@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I28rF6GVej4wajKzZj1//DsDsdEC12/gSjFcjlj3bi/qOf85Bgemk/ROc4PbmilvYvqta6pnMdS97Oyntr4R2g==",
+  "success": true,
+  "projectFilePath": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures & Exercises\\13-OOP-Principles-Encapsulation-Inheritance\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

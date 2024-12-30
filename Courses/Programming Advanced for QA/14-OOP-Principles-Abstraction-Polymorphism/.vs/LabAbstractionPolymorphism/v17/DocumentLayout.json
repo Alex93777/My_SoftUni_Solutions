@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\raiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|solutionrelative:raiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\raiding\\models\\healer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|solutionrelative:raiding\\models\\healer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\raiding\\models\\heroes\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|solutionrelative:raiding\\models\\heroes\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\raiding\\models\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|solutionrelative:raiding\\models\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\raiding\\models\\heroes\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|solutionrelative:raiding\\models\\heroes\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\raiding\\models\\heroes\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|solutionrelative:raiding\\models\\heroes\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\raiding\\models\\heroes\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Raiding\\Raiding.csproj|solutionrelative:raiding\\models\\heroes\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8C8A0E-2F44-48D9-B403-560E4E06CE50}|Animals\\Animals.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\animals\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8C8A0E-2F44-48D9-B403-560E4E06CE50}|Animals\\Animals.csproj|solutionrelative:animals\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8C8A0E-2F44-48D9-B403-560E4E06CE50}|Animals\\Animals.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\animals\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8C8A0E-2F44-48D9-B403-560E4E06CE50}|Animals\\Animals.csproj|solutionrelative:animals\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8C8A0E-2F44-48D9-B403-560E4E06CE50}|Animals\\Animals.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\animals\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8C8A0E-2F44-48D9-B403-560E4E06CE50}|Animals\\Animals.csproj|solutionrelative:animals\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8C8A0E-2F44-48D9-B403-560E4E06CE50}|Animals\\Animals.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\animals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8C8A0E-2F44-48D9-B403-560E4E06CE50}|Animals\\Animals.csproj|solutionrelative:animals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B852E4E-27CD-4437-A6E6-C73FFDE65899}|Cars\\Cars.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B852E4E-27CD-4437-A6E6-C73FFDE65899}|Cars\\Cars.csproj|solutionrelative:cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B852E4E-27CD-4437-A6E6-C73FFDE65899}|Cars\\Cars.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\cars\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B852E4E-27CD-4437-A6E6-C73FFDE65899}|Cars\\Cars.csproj|solutionrelative:cars\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B852E4E-27CD-4437-A6E6-C73FFDE65899}|Cars\\Cars.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\cars\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B852E4E-27CD-4437-A6E6-C73FFDE65899}|Cars\\Cars.csproj|solutionrelative:cars\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B852E4E-27CD-4437-A6E6-C73FFDE65899}|Cars\\Cars.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B852E4E-27CD-4437-A6E6-C73FFDE65899}|Cars\\Cars.csproj|solutionrelative:cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B852E4E-27CD-4437-A6E6-C73FFDE65899}|Cars\\Cars.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B852E4E-27CD-4437-A6E6-C73FFDE65899}|Cars\\Cars.csproj|solutionrelative:cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F315FB-8195-4773-BAF8-73B6C48C49CB}|Shapes\\Shapes.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F315FB-8195-4773-BAF8-73B6C48C49CB}|Shapes\\Shapes.csproj|solutionrelative:shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F315FB-8195-4773-BAF8-73B6C48C49CB}|Shapes\\Shapes.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F315FB-8195-4773-BAF8-73B6C48C49CB}|Shapes\\Shapes.csproj|solutionrelative:shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F315FB-8195-4773-BAF8-73B6C48C49CB}|Shapes\\Shapes.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lectures \u0026 exercises\\14-oop-principles-abstraction-polymorphism\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F315FB-8195-4773-BAF8-73B6C48C49CB}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Program.cs",
+              "RelativeDocumentMoniker": "Raiding\\Program.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Program.cs",
+              "RelativeToolTip": "Raiding\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:02:07.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Heroes\\Warrior.cs",
+              "RelativeDocumentMoniker": "Raiding\\Models\\Heroes\\Warrior.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Heroes\\Warrior.cs",
+              "RelativeToolTip": "Raiding\\Models\\Heroes\\Warrior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:01:21.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rogue.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Heroes\\Rogue.cs",
+              "RelativeDocumentMoniker": "Raiding\\Models\\Heroes\\Rogue.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Heroes\\Rogue.cs",
+              "RelativeToolTip": "Raiding\\Models\\Heroes\\Rogue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:59:40.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Paladin.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Heroes\\Paladin.cs",
+              "RelativeDocumentMoniker": "Raiding\\Models\\Heroes\\Paladin.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Heroes\\Paladin.cs",
+              "RelativeToolTip": "Raiding\\Models\\Heroes\\Paladin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:57:30.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Druid.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Heroes\\Druid.cs",
+              "RelativeDocumentMoniker": "Raiding\\Models\\Heroes\\Druid.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Heroes\\Druid.cs",
+              "RelativeToolTip": "Raiding\\Models\\Heroes\\Druid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:52:39.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Healer.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Healer.cs",
+              "RelativeDocumentMoniker": "Raiding\\Models\\Healer.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Healer.cs",
+              "RelativeToolTip": "Raiding\\Models\\Healer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:48:46.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fighter.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Fighter.cs",
+              "RelativeDocumentMoniker": "Raiding\\Models\\Fighter.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Raiding\\Models\\Fighter.cs",
+              "RelativeToolTip": "Raiding\\Models\\Fighter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:38:14.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Animals\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Animals\\Models\\Dog.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Animals\\Models\\Dog.cs",
+              "RelativeToolTip": "Animals\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:21:54.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Animals\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Animals\\Models\\Cat.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Animals\\Models\\Cat.cs",
+              "RelativeToolTip": "Animals\\Models\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:53:25.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Animals\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Animals\\Models\\Animal.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Animals\\Models\\Animal.cs",
+              "RelativeToolTip": "Animals\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:43:53.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Animals\\Program.cs",
+              "RelativeDocumentMoniker": "Animals\\Program.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Animals\\Program.cs",
+              "RelativeToolTip": "Animals\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:43:43.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IElectricCar.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Cars\\IElectricCar.cs",
+              "RelativeDocumentMoniker": "Cars\\IElectricCar.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Cars\\IElectricCar.cs",
+              "RelativeToolTip": "Cars\\IElectricCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:31:11.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Cars\\ICar.cs",
+              "RelativeDocumentMoniker": "Cars\\ICar.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Cars\\ICar.cs",
+              "RelativeToolTip": "Cars\\ICar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:27:12.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Cars\\Program.cs",
+              "RelativeDocumentMoniker": "Cars\\Program.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Cars\\Program.cs",
+              "RelativeToolTip": "Cars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:26:31.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tesla.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Cars\\Tesla.cs",
+              "RelativeDocumentMoniker": "Cars\\Tesla.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Cars\\Tesla.cs",
+              "RelativeToolTip": "Cars\\Tesla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:24:42.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Cars\\Seat.cs",
+              "RelativeDocumentMoniker": "Cars\\Seat.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Cars\\Seat.cs",
+              "RelativeToolTip": "Cars\\Seat.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:24:31.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Rectangle.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Shapes\\Rectangle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:54:13.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:48:24.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Shapes\\Program.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures \u0026 Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Shapes\\Program.cs",
+              "RelativeToolTip": "Shapes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:49:30.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

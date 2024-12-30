@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vKPOYT1x4SdLbt966rg85jx0dlnIg398ChGqsG3+yHzLP5d1aD3n0BW8sInbluzfwgbrmy5c4J1uud3m9uiriA==",
+  "success": true,
+  "projectFilePath": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures & Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

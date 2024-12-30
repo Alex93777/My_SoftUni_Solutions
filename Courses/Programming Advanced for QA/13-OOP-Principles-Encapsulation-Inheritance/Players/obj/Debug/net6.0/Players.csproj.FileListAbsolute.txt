@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Players\bin\Debug\net6.0\Players.deps.json
+C:\Users\PC\Desktop\Players\bin\Debug\net6.0\Players.dll
+C:\Users\PC\Desktop\Players\bin\Debug\net6.0\Players.pdb
+C:\Users\PC\Desktop\Players\obj\Debug\net6.0\Players.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Players\obj\Debug\net6.0\Players.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Players\obj\Debug\net6.0\Players.AssemblyInfo.cs
+C:\Users\PC\Desktop\Players\obj\Debug\net6.0\Players.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Players\obj\Debug\net6.0\Players.dll
+C:\Users\PC\Desktop\Players\obj\Debug\net6.0\refint\Players.dll
+C:\Users\PC\Desktop\Players\obj\Debug\net6.0\Players.pdb
+C:\Users\PC\Desktop\Players\obj\Debug\net6.0\ref\Players.dll

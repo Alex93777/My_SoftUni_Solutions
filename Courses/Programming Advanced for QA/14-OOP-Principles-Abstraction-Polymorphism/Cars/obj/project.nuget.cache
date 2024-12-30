@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yhn74K/GKPu902bMF8BB/Xmn8oe4aaQU6AfEcccceTzqruPTo2/Nw9cVKLgGaJxE/8MabibV6KwyhdmpD4dYMg==",
+  "success": true,
+  "projectFilePath": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lectures & Exercises\\14-OOP-Principles-Abstraction-Polymorphism\\Cars\\Cars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\BoxData\bin\Debug\net6.0\BoxData.exe
+C:\Users\PC\Desktop\BoxData\bin\Debug\net6.0\BoxData.deps.json
+C:\Users\PC\Desktop\BoxData\bin\Debug\net6.0\BoxData.runtimeconfig.json
+C:\Users\PC\Desktop\BoxData\bin\Debug\net6.0\BoxData.dll
+C:\Users\PC\Desktop\BoxData\bin\Debug\net6.0\BoxData.pdb
+C:\Users\PC\Desktop\BoxData\obj\Debug\net6.0\BoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfo.cs
+C:\Users\PC\Desktop\BoxData\obj\Debug\net6.0\BoxData.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BoxData\obj\Debug\net6.0\BoxData.dll
+C:\Users\PC\Desktop\BoxData\obj\Debug\net6.0\refint\BoxData.dll
+C:\Users\PC\Desktop\BoxData\obj\Debug\net6.0\BoxData.pdb
+C:\Users\PC\Desktop\BoxData\obj\Debug\net6.0\BoxData.genruntimeconfig.cache
+C:\Users\PC\Desktop\BoxData\obj\Debug\net6.0\ref\BoxData.dll
